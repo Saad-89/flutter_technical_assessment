@@ -1,16 +1,21 @@
-# flutter_developer_technical_assessment
+# flutter_technical_assessment
 
-A new Flutter project.
+Steps to Run this project on your system. make sure you have complete setup of flutter. you can check this by running this command:
 
-## Getting Started
+flutter doctor
 
-This project is a starting point for a Flutter application.
+1:
 
-A few resources to get you started if this is your first Flutter project:
+clone this project to you system by runing this command:
+git clone -b flutter_technical_assesment https://github.com/Saad-89/flutter_technical_assessment.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2: 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Then run => flutter pub get
+
+3: 
+
+connect the emulator/ real device and then just run the project on that device.
+using flutter run comamnd.
+
+thanks!
